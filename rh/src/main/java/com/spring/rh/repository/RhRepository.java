@@ -12,3 +12,4 @@ public interface RhRepository extends JpaRepository<Funcionario, Long> { // COM 
 
 
 }
+  
