@@ -127,7 +127,7 @@ public class RhController {
     @RequestMapping(value="/apagar/{id}",method = RequestMethod.POST)
     public String deletar(@PathVariable("id") long id){
         rhService.deleteById(id);
-        return "redirect:/funcs";
+        return "redirect:/funcs";    
     }
 
 
