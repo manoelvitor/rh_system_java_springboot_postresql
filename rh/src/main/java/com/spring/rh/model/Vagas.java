@@ -30,3 +30,4 @@ public class Vagas {
         this.descricao = descricao;
     }
 }
+  
