@@ -1,5 +1,5 @@
 package com.spring.rh.utils;
-
+  
 import com.spring.rh.model.Empresas;
 import com.spring.rh.model.Funcionario;
 import com.spring.rh.model.Vagas;
